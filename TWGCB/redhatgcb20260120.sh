@@ -1,5 +1,6 @@
 #!/bin/sh
 #TWGCB檢測腳本
+#Contact: publicegaryhuang@googlegroups.com
 # ==============================================================================
 # [Copyright Statement / Privacy & Disclaimer]
 # ------------------------------------------------------------------------------
